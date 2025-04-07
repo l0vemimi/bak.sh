@@ -1,4 +1,3 @@
-# sh.bak
 Simple backup shell script.
 
 **How to use:**
@@ -11,4 +10,4 @@ Simple backup shell script.
 
         ./bak.sh
 
-**Optionally,** create an alias in .bashrc for easier use.
+*Optionally create an alias for the scrip in .bashrc for easier use.*
